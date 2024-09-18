@@ -52,17 +52,16 @@ $configArray["certificateVerifyHost"] = 2;
 
 
 // Base URL of the Payment Gateway. Do not include the version.
-$configArray["gatewayUrl"] = "https://[INSERT-DOMAIN]/api/rest";
+$configArray["gatewayUrl"] = "https://mtf.gateway.mastercard.com/api/rest";
 
 // Merchant ID supplied by your payments provider
-$configArray["merchantId"] = "[INSERT-MERCHANT-ID]";
+$configArray["merchantId"] = "MIDtesting00";
 
 // API username in the format below where Merchant ID is the same as above
-$configArray["apiUsername"] = "merchant.[INSERT-MERCHANT-ID]";
+$configArray["apiUsername"] = "merchant.MIDtesting00";
 
 // API password which can be configured in Merchant Administration
-$configArray["password"] = "";
-
+$configArray["password"] = "52bd872baff9fa4ba46fa1d9073b2451";
 
 // The debug setting controls displaying the raw content of the request and 
 // response for a transaction.
