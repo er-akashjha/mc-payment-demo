@@ -71,7 +71,7 @@ $configArray["debug"] = FALSE;
 
 // Version number of the API being used for your integration
 // this is the default value if it isn't being specified in process.php
-$configArray["version"] = "13";
+$configArray["version"] = "76";
 
 /* 	
  This class holds all the merchant related variables and proxy 
