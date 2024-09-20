@@ -17,7 +17,7 @@
     	<p>This set contains working example code to help you integrate your application into the payment gateway. Below are the transaction types covered in this example.</p>
     <table align="center">
     	<tr>
-    		<td height="40" width="25%"><strong><a href="x_authorize_simple.html">Simple Authorize</a></strong><br/>x_authorize_simple.html</td>
+    		<td height="40" width="25%"><strong><a href="x_authorize_simple.php">Simple Authorize</a></strong><br/>x_authorize_simple.html</td>
     		<td style="padding-bottom:5px">Simple authorization transaction. Includes only basic fields like Card Number, Expiry, Card Security Code, Amount, Currency, IP Address and Order & Transaction References. Requires merchant to specify Order & Transaction IDs.</td>
     	</tr>
     	<tr>
